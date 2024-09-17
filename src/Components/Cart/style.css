@@ -1,0 +1,19 @@
+
+.marcellus-regular {
+    font-family: "Marcellus", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.card1{
+    margin: auto;    
+    width: 100%;
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 1rem;
+    border: transparent;
+    font-size: medium;
+}
+.button-disabled {
+    background-color: #d3d3d3; 
+    color: #a9a9a9;
+    cursor: not-allowed;
+}

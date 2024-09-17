@@ -1,0 +1,11 @@
+.product-detail{
+    width: 360px;
+    height: calc(100vh - 68px);
+    top: 68px;
+}
+
+.stock-qty {
+    color: green;
+    font-size: 0.875rem;
+    font-weight: normal;
+}
