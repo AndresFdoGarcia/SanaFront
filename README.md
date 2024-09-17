@@ -48,10 +48,11 @@ npm run build
 
 ### Basic Functionality of the Store
 
-Upon launching the project, the home page ('/') will load a list of all products without filtering by categories. This list is paginated with a maximum of 9 products per page.
-Clicking on any of the categories will filter the content, displaying only the products belonging to that specific category.
-By default, no user is logged in. Clicking on "Sign In" will simulate a user login.
-Products can be added to the shopping cart by default, but placing an order will not be allowed unless a user is logged in.
-The images of the products on their left side allow opening a window with the product details.
-The button located above each image allows adding the product to the cart.
-Below each product image, you'll find a list of tags or labels indicating the categories to which the product belongs.
+- Upon launching the project, the home page ('/') will load a list of all products without filtering by categories.
+- This list is paginated with a maximum of 9 products per page.
+- Clicking on any of the categories will filter the content, displaying only the products belonging to that specific category.
+- By default, no user is logged in. Clicking on "Sign In" will simulate a user login.
+- Products can be added to the shopping cart by default, but placing an order will not be allowed unless a user is logged in.
+- The images of the products on their left side allow opening a window with the product details.
+- The button located above each image allows adding the product to the cart.
+- Below each product image, you'll find a list of tags or labels indicating the categories to which the product belongs.
